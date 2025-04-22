@@ -2,7 +2,7 @@ Hii, there! My name is Rishik R. I am currently a Physics Masters student at SSS
 
 ## Contact & Socials :
 
-<a href="https://github.com/robotchickn1">
+<a href="https://github.com/rishikr007">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
 </a>
 
