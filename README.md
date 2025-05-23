@@ -19,12 +19,7 @@ Hii, there! My name is Rishik R. I am currently a Physics Masters student at SSS
 </a>
 
 ## Tools & other apps that I frequently use :p  
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit1.svg">
 
 
 <p align="center">
