@@ -1,4 +1,4 @@
-Hii, there! My name is Rishik R. I am currently a Physics Masters student at SSSIHL. Cheers!
+Hii, there! My name is Rishik R. I am currently a Physics Masters student at SSSIHL.
 
 ## Contact & Socials:
 
