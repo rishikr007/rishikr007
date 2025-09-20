@@ -2,10 +2,11 @@ Hii, there! My name is Rishik R. I am currently a Physics Masters student at SSS
 
 ## Contact & Socials:
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter Profile"/>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg">
+<!-- Removed the anchor tags, now just displaying images -->
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" title="" style="pointer-events: none;">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter Profile" title="" style="pointer-events: none;">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" title="" style="pointer-events: none;">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" title="" style="pointer-events: none;">
 
 ## Tools & other apps that I frequently use :p  
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" style="pointer-events: none;"> 
