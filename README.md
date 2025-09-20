@@ -25,8 +25,6 @@ Hii, there! My name is Rishik R. I am currently a Physics Masters student at SSS
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" style="pointer-events: none;"> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Reddit/reddit1.svg" style="pointer-events: none;">
 
-
-
 <p align="center">
         <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
